@@ -14,3 +14,4 @@ Catstagram is an Android application designed for cat lovers, allowing users to 
 - Retrofit for API communication.
 - Firebase Authentication & Storage for user accounts and cloud image storage.
 - YouTube API for fetching and displaying cat videos.
+## 📱App screenshots📱
