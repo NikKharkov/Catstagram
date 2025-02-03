@@ -1,6 +1,6 @@
 ## 🐱 Catstagram - Your Personal Cat Tracker🐱
 
-Catstagram is an Android application designed for cat lovers, allowing users to save and showcase their favorite feline friends.
+Catstagram is an application designed for cat lovers, allowing users to save best memories with their favorite feline friends.
 
 ### ✨ Features
 - 🔐 Authentication: Secure login and user management powered by Firebase Authentication.
