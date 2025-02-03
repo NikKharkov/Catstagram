@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Catstagram</string>
+    <string name="enter_name">Введите имя котейки</string>
+    <string name="name">Имя</string>
+    <string name="man">Мужской</string>
+    <string name="woman">Женский</string>
+    <string name="choose_birthday_date">Выберите дату рождения</string>
+    <string name="close">Закрыть</string>
+    <string name="birthday_date">Дата рождения</string>
+    <string name="done">Готово</string>
+    <string name="nav_continue">Продолжить</string>
+    <string name="cat_needs_name">Котику нужно имя :(</string>
+    <string name="choose_gender">Пожалуйста, выберите пол</string>
+    <string name="Home">Дом</string>
+    <string name="gallery">Галерея</string>
+    <string name="add">Добавить</string>
+    <string name="video">Видео</string>
+    <string name="settings">Настройки</string>
+    <string name="successfully">Успешно</string>
+    <string name="failure">Ошибка</string>
+    <string name="exit_fullscreen">Окно</string>
+    <string name="enter_fullscreen">Полный экран</string>
+    <string name="guest">Гость</string>
+    <string name="enter_acc">Войти в аккаунт Google</string>
+    <string name="language">Русский</string>
+</resources>
